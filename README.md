@@ -56,8 +56,6 @@
 |----------|----------------|----------------------|
 | ![dashboard](https://via.placeholder.com/300x200) | ![budget](https://via.placeholder.com/300x200) | ![investment](https://via.placeholder.com/300x200) |
 
-> _Replace these placeholders with actual screenshots for a better showcase._
-
 ---
 
 ## 🛠️ Getting Started
