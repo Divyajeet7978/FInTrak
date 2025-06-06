@@ -52,9 +52,9 @@
 
 ## 📸 Screenshots
 
-| Dashboard | Budget Tracker | Investment Overview |
-|----------|----------------|----------------------|
-| ![dashboard](https://via.placeholder.com/300x200) | ![budget](https://via.placeholder.com/300x200) | ![investment](https://via.placeholder.com/300x200) |
+| Dashboard | Sign-In Page |
+|----------|----------------|
+| ![dashboard](https://github.com/Divyajeet7978/Portfolio_Redesigned/blob/main/img/FTD.png) | ![Sign-in](https://github.com/Divyajeet7978/Portfolio_Redesigned/blob/main/img/FTS.png) |  |
 
 ---
 
